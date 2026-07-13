@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+
+# YOLO Model
+*.pt
+
+# Output Videos
+output/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
